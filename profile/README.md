@@ -1,4 +1,9 @@
-# Freelancer, Blogger, Founder of Codeconut Ltd.
+![TheRemoteCoder](teaser.png)
 
-Let's get [in touch](https://github.com/ChristianOellers)!
+# TheRemoteCoder
 
+Freelancer, Blogger, Founder of Codeconut Ltd.
+
+- [Blog](https://www.theremotecoder.com)
+- [Company](https://www.codeconut.io)
+- [Profile](https://github.com/ChristianOellers)

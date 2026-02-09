@@ -2,8 +2,7 @@
 
 # TheRemoteCoder
 
-Freelancer, Blogger, Founder of Codeconut Ltd.
+Founder of Codeconut Ltd. Freelancer.
 
-- [Blog](https://www.theremotecoder.com)
-- [Company](https://www.codeconut.io)
+- [Company](https://www.codeconutltd.com)
 - [Profile](https://github.com/ChristianOellers)

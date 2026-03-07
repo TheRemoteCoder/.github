@@ -2,7 +2,7 @@
 
 # TheRemoteCoder
 
-Founder of Codeconut Ltd. Freelancer.
+Freelancer, Founder of Codeconut Ltd.
 
 - [Company](https://www.codeconutltd.com)
 - [Profile](https://github.com/ChristianOellers)

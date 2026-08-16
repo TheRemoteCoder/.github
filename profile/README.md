@@ -2,9 +2,8 @@
 
 # TheRemoteCoder
 
-Public sources, personal space and technological explorations.
+Open source creations and contributions – Personal space to share technological explorations.
 
-## About me
-
+- [Personal profile](https://github.com/ChristianOellers)
 - [Company](https://www.codeconutltd.com)
-- [Profile](https://github.com/ChristianOellers)
+

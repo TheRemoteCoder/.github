@@ -5,5 +5,5 @@
 Freelancer, Blogger, Founder of Codeconut Ltd.
 
 - [Blog](https://www.theremotecoder.com)
-- [Company](https://www.codeconut.io)
+- [Company](https://www.codeconutltd.com)
 - [Profile](https://github.com/ChristianOellers)
